@@ -1,2 +1,2 @@
 let firstName = "Mohammad";
-console.log(firstName[0]);g
+console.log(firstName[0]);
